@@ -6,5 +6,8 @@ Estado: 9 de 10.
 Precio promedio en los Estados Unidos:
 8200 soles
 
+Precio promedio en Peru:
+12000 soles
+
 Link referencial en USA sin impuestos, version 16gb de RAM y 512 SSD:
 https://www.amazon.com/Razer-Blade-Gaming-Laptop-2019/dp/B07QB1DH5N?th=1
